@@ -1,0 +1,3 @@
+code2.txt file
+
+This file contains some lines of code.
